@@ -1,4 +1,4 @@
-package com.juaracoding._vmspringbootjpa.configuration;
+package com.juaracoding.vmspringbootjpa.configuration;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,6 +1,6 @@
-package com.juaracoding._vmspringbootjpa.utils;
+package com.juaracoding.vmspringbootjpa.utils;
 
-import com.juaracoding._vmspringbootjpa.handler.ResourceNotFoundException;
+import com.juaracoding.vmspringbootjpa.handler.ResourceNotFoundException;
 import org.springframework.util.FileCopyUtils;
 import org.springframework.util.ResourceUtils;
 

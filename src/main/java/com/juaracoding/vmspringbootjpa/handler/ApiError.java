@@ -1,7 +1,7 @@
-package com.juaracoding._vmspringbootjpa.handler;
+package com.juaracoding.vmspringbootjpa.handler;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
-import com.juaracoding._vmspringbootjpa.utils.ConstantMessage;
+import com.juaracoding.vmspringbootjpa.utils.ConstantMessage;
 import lombok.Data;
 import org.springframework.http.HttpStatus;
 

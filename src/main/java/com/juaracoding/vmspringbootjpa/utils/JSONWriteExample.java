@@ -1,4 +1,4 @@
-package com.juaracoding._vmspringbootjpa.utils;
+package com.juaracoding.vmspringbootjpa.utils;
 
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;

@@ -1,4 +1,4 @@
-package com.juaracoding._vmspringbootjpa.core;
+package com.juaracoding.vmspringbootjpa.core;
 
 import org.bouncycastle.crypto.BufferedBlockCipher;
 import org.bouncycastle.crypto.engines.AESLightEngine;
@@ -9,7 +9,7 @@ import org.bouncycastle.util.encoders.Hex;
 
 public class Crypto {
 
-	private static String defaultKey = "";
+    private static String defaultKey = "aafd12f438cae52538b479e2089ddec2f06cb58faafd12f6";
     public static String performEncrypt(String keyText, String plainText) {
         try{
             byte[] key = Hex.decode(keyText.getBytes());
@@ -50,7 +50,7 @@ public class Crypto {
 
     public static void main(String[] args) {
 
-        String strToEncrypt = "";//put text to encrypt in here
+        String strToEncrypt = "user1234";//put text to encrypt in here
         String encryptionResult = new Crypto().performEncrypt(strToEncrypt);
         System.out.println("Encryption Result : "+encryptionResult);
 

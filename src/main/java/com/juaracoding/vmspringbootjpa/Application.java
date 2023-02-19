@@ -1,4 +1,4 @@
-package com.juaracoding._vmspringbootjpa;
+package com.juaracoding.vmspringbootjpa;
 
 
 import org.springframework.boot.SpringApplication;

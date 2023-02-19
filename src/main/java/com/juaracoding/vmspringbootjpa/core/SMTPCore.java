@@ -1,7 +1,7 @@
-package com.juaracoding._vmspringbootjpa.core;
+package com.juaracoding.vmspringbootjpa.core;
 
-import com.juaracoding._vmspringbootjpa.configuration.ConfigProperties;
-import com.juaracoding._vmspringbootjpa.handler.ResourceNotFoundException;
+import com.juaracoding.vmspringbootjpa.configuration.ConfigProperties;
+import com.juaracoding.vmspringbootjpa.handler.ResourceNotFoundException;
 
 import javax.mail.*;
 import javax.mail.internet.InternetAddress;

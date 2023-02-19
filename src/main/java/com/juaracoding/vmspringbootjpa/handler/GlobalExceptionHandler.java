@@ -1,6 +1,6 @@
-package com.juaracoding._vmspringbootjpa.handler;
+package com.juaracoding.vmspringbootjpa.handler;
 
-import com.juaracoding._vmspringbootjpa.utils.ConstantMessage;
+import com.juaracoding.vmspringbootjpa.utils.ConstantMessage;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.dao.DataIntegrityViolationException;
 import org.springframework.http.HttpHeaders;

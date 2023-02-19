@@ -1,4 +1,4 @@
-package com.juaracoding._vmspringbootjpa.handler;
+package com.juaracoding.vmspringbootjpa.handler;
 
 import lombok.Data;
 

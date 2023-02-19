@@ -1,4 +1,4 @@
-package com.juaracoding._vmspringbootjpa.utils;
+package com.juaracoding.vmspringbootjpa.utils;
 
 
 import org.springframework.web.multipart.MultipartFile;
